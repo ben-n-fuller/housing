@@ -1,6 +1,6 @@
 # Housing
 
-Monte Carlo simulation comparing rent vs. buy strategies over 1–7 year horizons. Estimates the distribution of net worth difference $\Delta(t) = \text{NW}_{\text{buy}}(t) - \text{NW}_{\text{rent}}(t)$.
+Monte Carlo simulation comparing rent vs. buy strategies. Estimates the distribution of net worth difference for different time horizons.
 
 ## Setup
 
