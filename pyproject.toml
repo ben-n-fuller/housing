@@ -9,4 +9,5 @@ dependencies = [
     "matplotlib",
     "seaborn",
     "ipykernel",
+    "jinja2",
 ]
