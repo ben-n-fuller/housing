@@ -1,6 +1,6 @@
 # Housing
 
-Monte Carlo simulation comparing rent vs. buy strategies. Estimates the distribution of net worth difference for different time horizons.
+Monte Carlo simulation comparing rent vs. buy strategies. Estimates the distribution of net worth difference for variable time horizons.
 
 ## Setup
 
